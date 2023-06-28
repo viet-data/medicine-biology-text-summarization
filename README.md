@@ -10,7 +10,7 @@ All processing data and training notebooks are in folder src.
 
 **Train baseline** code for training baselines are in notebooks that have file names respective to their names.
 
-**Extracting methods** Kmeans and Herding are in KMeans.ipynb and Herding.ipynb . Since it belongs to preprocessing step. We use these algorithms to prepare data in advance.
+**Extracting methods** Kmeans and Herding are in KMeans.ipynb and Herding.ipynb . Since extracting important sentences belongs to preprocessing step. We use these algorithms to prepare data in advance.
 
 As presented in the report, APP achieves the highest performance on the test dataset of VMB. The checkpoint of VMB is stored on huggingface. For demo section, please run all cells in notebook demo.ipynb to get gradio public link of the web application. Once you access the web, you can paste your document and get the summary by clicking on the submit button.
 
