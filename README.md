@@ -4,6 +4,12 @@ In this study, we collected a medicine and biolgy dataset from existing datasets
 
 All processing data and training notebooks are in folder src.
 
+**Process data** code for training BERT is in prepare-dataset.ipynb
+
+**Train APP** code for the training APP is in bartpho-app.ipynb
+
+**Train baseline** code for training baselines are in notebooks that have file names respective to their names.
+
 As presented in the report, APP achieves the highest performance on the test dataset of VMB. The checkpoint of VMB is stored on huggingface. For demo section, please run all cells in notebook demo.ipynb to get gradio public link of the web application. Once you access the web, you can paste your document and get the summary by clicking on the summit button.
 
 **HuggingFace**: https://huggingface.co/OpenHust
