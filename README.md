@@ -27,4 +27,10 @@ Tokenizers 0.12.1
 
 ## Contributors
 
+This work was done as part of the course `Natural Language Processing Course - 	IT4772E` at Hanoi University of Science and Technology. Team members include:
+
+- [Đỗ Tuấn Anh](https://github.com/AnhDt-dsai)
+- [Trần Xuân Huy](https://github.com/TranXuanHuy267)
+- [Phạm Vũ Huyền Trang](https://github.com/PhamVuHuyenTrang)
+- [Đào Trọng Việt](https://github.com/viet-data)
 
